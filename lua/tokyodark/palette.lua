@@ -27,6 +27,8 @@ local colors = {
     cyan = '#38A89D',
     purple = '#A485DD',
     grey = '#4A5057',
+    deep_sky_blue_1 = '#00afff',
+    deep_sky_blue_2 = '#00afd7',
     none = 'NONE'
 }
 local function gamma_correction(colors)
