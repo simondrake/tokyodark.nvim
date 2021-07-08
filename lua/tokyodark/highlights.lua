@@ -121,7 +121,7 @@ hl.syntax = {
     Title = hl.predef.Yellow,
     Tag = hl.predef.Orange,
     Delimiter = hl.predef.Fg,
-    Comment = {fg = p.p.deep_sky_blue_2, italic = cfg.italic_comment},
+    Comment = {fg = p.deep_sky_blue_2, italic = cfg.italic_comment},
     SpecialComment = {fg = p.bg4, italic = cfg.italic_comment},
     Todo = {fg = p.blue, italic = cfg.italic_comment}
 }
