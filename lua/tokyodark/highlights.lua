@@ -61,7 +61,7 @@ hl.common = {
     Search = {fg = p.bg0, bg = p.bg_green},
     MatchParen = {fg = p.none, bg = p.bg4},
     NonText = {fg = p.bg4},
-    Whitespace = {fg = p.bg4},
+    Whitespace = {fg = p.fuchsia},
     SpecialKey = {fg = p.bg4},
     Pmenu = {fg = p.fg, bg = p.bg2},
     PmenuSbar = {fg = p.none, bg = p.bg2},

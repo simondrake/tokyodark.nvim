@@ -29,6 +29,7 @@ local colors = {
     grey = '#4A5057',
     deep_sky_blue_1 = '#00afff',
     deep_sky_blue_2 = '#00afd7',
+    fuchsia = '#ff00ff',
     none = 'NONE'
 }
 local function gamma_correction(colors)
